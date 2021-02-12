@@ -74,7 +74,7 @@ Finalmente, todo el contenido descrito anteriormente (mover archivos, renómbral
 
 Lenguaje | Guia de estilos |
 --- | --- | 
-Python| [Pepe8](https://www.python.org/dev/peps/pep-0008/) | 
+Python| [Pep8](https://www.python.org/dev/peps/pep-0008/) | 
 R | [Hadley Wickham - Tidyverse](https://style.tidyverse.org/)<br>[Hadley Wickham - Style guide](http://adv-r.had.co.nz/Style.html)| 
 MatLab | [Richard Johnson - MathWorks](http://www.datatool.com/downloads/MatlabStyle2%20book.pdf) |
 
