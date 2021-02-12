@@ -16,5 +16,15 @@ Asimismo, abra un archivo llamado _requirements.txt_, en el caso de Python, que 
 Respecto a los demás lenguajes, se diseñarán otros mecanismos con el mismo propósito de trabajar con las versiones correctas.
 
 Ahora bien, es necesario moverse dentro de las carpetas usando el lenguaje de programación que se este usando. Para esto existen las rutas relativas o árbol de directorio que nos permitirá acceder a los diferentes archivos sin usar las rutas absolutas, generando cambios en el código. Estas rutas relativas se usan de la siguiente forma:
+ 
+![alt text][logo]
+
+[logo]: https://github.com/Coyunturaeconomica/Coyunturaeconomica/blob/main/paths.PNG "Rutas"
+
+EJEMPLO: 
+El directorio de trabajo en nuestro caso se la carpeta “Scripts” donde alojaran los códigos. Sin embargo, necesitamos acceder a la carpeta “Inputs” para importar los datos del recaudo del GNC mensual por tipo (recaudo_mensual_tipo.xlsx). 
+Si tomamos dos rutas absolutas como ejemplo tendríamos:
+
+
 
 
