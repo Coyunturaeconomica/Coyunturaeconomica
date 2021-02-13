@@ -79,6 +79,13 @@ R | [Hadley Wickham - Tidyverse](https://style.tidyverse.org/)<br>[Hadley Wickha
 MatLab | [Richard Johnson - MathWorks](http://www.datatool.com/downloads/MatlabStyle2%20book.pdf) |
 
 ## Almacenamiento (SharePoint)
+Usaremos el SharePoint del grupo como herramienta de almacenamiento desde los insumos del código hasta los componentes del PowerBI. Cualquier resultado, modelo, código, etc., deberá estar alojado en la cuenta del grupo.
+
+La estructura inicial serán dos carpetas las cuales serán:
+- **Programming**: Elementos relacionados con la programación como sccripts, datos, resultados, etc.
+- **PowerBI**: Elementos relacionados con el tablero como logos, template, imagenes, archivo con comentarios de expertos, etc. 
+
+
 
 ## GitHub
 Recomendaciones a la hora de crear un repositorio.
