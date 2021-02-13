@@ -81,3 +81,4 @@ MatLab | [Richard Johnson - MathWorks](http://www.datatool.com/downloads/MatlabS
 ## Almacenamiento (SharePoint)
 
 ## GitHub
+Para saber más ingrese a la [guia elaborada para el grupo](https://github.com/Coyunturaeconomica/Manual-GitHub/blob/main/README.md).
