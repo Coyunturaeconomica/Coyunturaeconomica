@@ -81,4 +81,10 @@ MatLab | [Richard Johnson - MathWorks](http://www.datatool.com/downloads/MatlabS
 ## Almacenamiento (SharePoint)
 
 ## GitHub
-Para saber más ingrese a la [guia elaborada para el grupo](https://github.com/Coyunturaeconomica/Manual-GitHub/blob/main/README.md).
+Recomendaciones a la hora de crear un repositorio.
+- No escribir el nombre de corrido, usar separadores. Ejemplo: *repositorio_de_prueba* o *repositorio-de-prueba*.
+- Añadir un pequeña descripción.
+- Poner el repositorio público.
+- Añadir el README y la licencia (preferiblemente MIT License).
+
+Para saber saber sobre el funcionamiento revise [Manual de GitHub – Coyuntura económica](https://github.com/Coyunturaeconomica/Manual-GitHub/blob/main/README.md).
