@@ -26,11 +26,11 @@ El directorio de trabajo en nuestro caso será la carpeta “_Scripts_” donde 
 
 Si tomamos dos rutas absolutas como ejemplo tendríamos:
 <p align="center">
- **C:\User\Camilo\OneDrive-EAFIT\Grupo de coyuntura\Tablero\Programming\Inputs\recaudo_mensual_tipo.xlsx**
+ C:\User\Camilo\OneDrive-EAFIT\Grupo de coyuntura\Tablero\Programming\Inputs\recaudo_mensual_tipo.xlsx
 </p>
  
 <p align="center">
- **C:\User\Jesús Botero\Documents\Grupo de coyuntura\Tablero\Inputs\recaudo_mensual_tipo.xlsx**
+ C:\User\Jesús Botero\Documents\Grupo de coyuntura\Tablero\Inputs\recaudo_mensual_tipo.xlsx
 </p>
 
 Así, si el usuario Jesús Botero desea ejecutar el código elaborado por Camilo tendría que cambiar las rutas del código. Este problema se puede evitar si usamos rutas relativas para generalizar el acceso a las carpetas: 
