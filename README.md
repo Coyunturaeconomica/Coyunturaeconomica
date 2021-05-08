@@ -10,7 +10,6 @@ La estructura de directorio escogida es la siguiente:
 - **Scripts**: Archivos de códigos ejecutables, preferiblemente escritos en módulos para evitar códigos extensos y mejorar su lectura.
 - **Others**: Archivos o información adicional que no interviene de manera directa en la elaboración del proyecto.
 - **Outputs**: Salidas del proyecto. En nuestro caso son los datos pre-procesados y listos para crear el tablero de PowerBI.
-- **Reports**: Visualización y documentación del código.
 
 Asimismo, abra un archivo llamado _requirements.txt_, en el caso de Python, que nos permitirá tener las mismas versiones de los paquetes usados durante el proyecto, instalándose con la sentencia `$ pip install -r requirements.txt`. Esto se debe a que los paquetes están en constante actualización cambiando, en algunos casos, los métodos que contienen, generando conflictos en la ejecución de los códigos. 
 Respecto a los demás lenguajes, se diseñarán otros mecanismos con el mismo propósito de trabajar con las versiones correctas.
@@ -68,9 +67,8 @@ Finalmente, todo el contenido descrito anteriormente (mover archivos, renómbral
 ## Herramientas :wrench: :hammer:
 1. **SharePoint**: Alojamiento de los datos, imagenes, logos, códigos, etc.
 2. **Lenguaje de programación**: Archivos de códigos ejecutables de cada software (py, R, m, do…).
-3. **Notebooks (opcional)**: Elaboración de los reportes. En otras palabras, documentación de código donde muestre como funciona y los pasos que sigue.
-4. **GitHub**: Sistema de control de versiones que nos permite tener registro de los pasos elaborados en el proyecto. Además, nos permite gestionar la compatibilidad de las distintas partes que se están trabajando.
-5. **Guías de estilos**: Las guías de estilos son normas estandarizadas para la escritura de códigos de programación. En otras palabras, nos dan convenciones de codificación para aplicar a nuestros códigos. De esta forma conseguimos que todos comprenda de la mejor forma los códigos escritos por sus compañeros. A continuación algunas guías de estilos:
+3. **GitHub**: Sistema de control de versiones que nos permite tener registro de los pasos elaborados en el proyecto. Además, nos permite gestionar la compatibilidad de las distintas partes que se están trabajando.
+4. **Guías de estilos**: Las guías de estilos son normas estandarizadas para la escritura de códigos de programación. En otras palabras, nos dan convenciones de codificación para aplicar a nuestros códigos. De esta forma conseguimos que todos comprenda de la mejor forma los códigos escritos por sus compañeros. A continuación algunas guías de estilos:
 
 Lenguaje | Guia de estilos |
 --- | --- | 
